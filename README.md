@@ -8,4 +8,4 @@ et juste à l'instant j'ai fait mon premier pull
 
 la modification faite en local
 
-ce texte n'existe que sur ma premiere branche
+nous allons faire un conflit de branche
